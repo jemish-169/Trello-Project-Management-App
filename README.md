@@ -1,8 +1,5 @@
 # Trello - Project Management App
 
-## Overview
-**Trello** is a project management app designed to help teams collaborate and manage their projects efficiently. Built with native Android development, the app allows users to create and manage boards, lists, and cards, making it easier to organize tasks and track progress.
-
 ## Features
 - **User Authentication**: Users can sign up, sign in, and sign out securely.
 - **Profile Management**: Update your profile with a name, image, email, and an optional mobile number.
