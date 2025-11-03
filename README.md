@@ -16,12 +16,6 @@
 - **Latest Android APIs**: The app is built using the latest code patterns and APIs to ensure compatibility across all Android versions.
 - **Activity Management**: Proper handling of activities and the activity stack to ensure a smooth and user-friendly experience.
 
-## Code Structure
-The app follows a modular architecture to maintain clean and maintainable code:
-- **Activities**: Handle different screens and manage the user flow throughout the app.
-- **Fragments**: Used within activities to modularize UI components and enhance reusability.
-- **Firebase Integration**: Manages real-time data synchronization, ensuring that all users see the latest updates instantly.
-
 ## Screenshots  
 
 <table>
