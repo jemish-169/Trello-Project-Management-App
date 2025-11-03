@@ -22,16 +22,22 @@ The app follows a modular architecture to maintain clean and maintainable code:
 - **Fragments**: Used within activities to modularize UI components and enhance reusability.
 - **Firebase Integration**: Manages real-time data synchronization, ensuring that all users see the latest updates instantly.
 
-## Screenshots
+## Screenshots  
 
-| Welcome Screen | SignIn screen | Home Screen |
-|-------------|----------------|--------------------------|
-| ![1](https://github.com/user-attachments/assets/ba32e6ea-46b4-4bd6-8c36-9fc57c35c806) | ![2](https://github.com/user-attachments/assets/950fa80a-0b80-49e7-a659-cec52deec590) | ![3](https://github.com/user-attachments/assets/30664eb3-38fb-4a99-8eec-17d154877fe1) |
-
-| Profile Update Screen | Create Board | Manage members |
-|----------------|-------------------|------------------|
-| ![4](https://github.com/user-attachments/assets/c6538b0c-75db-49eb-8f32-8142eb86ef5b) | ![5](https://github.com/user-attachments/assets/ec8108fa-36f3-4cc5-bc18-eb73197b68a8) | ![6](https://github.com/user-attachments/assets/2703fb3f-3579-4325-806c-a73ec9eab672) |
-
-| Add List and Cards | Update Card | Updated Board |
-|----------------|-------------------|------------------|
-| ![7](https://github.com/user-attachments/assets/b1785549-afed-49df-bd56-90e59cc8d9c0) | ![8](https://github.com/user-attachments/assets/6492883e-33db-47fa-9396-d1a85ea4f182) | ![9](https://github.com/user-attachments/assets/899da7d4-0bad-45dd-b3d0-ab26fc2a2522) |
+<table>
+  <tr>
+    <td align="center"><b>Welcome Screen</b><br><img src="https://github.com/user-attachments/assets/ba32e6ea-46b4-4bd6-8c36-9fc57c35c806" width="250"/></td>
+    <td align="center"><b>SignIn Screen</b><br><img src="https://github.com/user-attachments/assets/950fa80a-0b80-49e7-a659-cec52deec590" width="250"/></td>
+    <td align="center"><b>Home Screen</b><br><img src="https://github.com/user-attachments/assets/30664eb3-38fb-4a99-8eec-17d154877fe1" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Profile Update Screen</b><br><img src="https://github.com/user-attachments/assets/c6538b0c-75db-49eb-8f32-8142eb86ef5b" width="250"/></td>
+    <td align="center"><b>Create Board</b><br><img src="https://github.com/user-attachments/assets/ec8108fa-36f3-4cc5-bc18-eb73197b68a8" width="250"/></td>
+    <td align="center"><b>Manage Members</b><br><img src="https://github.com/user-attachments/assets/2703fb3f-3579-4325-806c-a73ec9eab672" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Add List and Cards</b><br><img src="https://github.com/user-attachments/assets/b1785549-afed-49df-bd56-90e59cc8d9c0" width="250"/></td>
+    <td align="center"><b>Update Card</b><br><img src="https://github.com/user-attachments/assets/6492883e-33db-47fa-9396-d1a85ea4f182" width="250"/></td>
+    <td align="center"><b>Updated Board</b><br><img src="https://github.com/user-attachments/assets/899da7d4-0bad-45dd-b3d0-ab26fc2a2522" width="250"/></td>
+  </tr>
+</table>
